@@ -1,0 +1,12 @@
+
+INFO 2023-09-11 17:02:42,341 autoreload 19792 11456 Watching for file changes with StatReloader
+INFO 2023-09-11 17:02:44,518 basehttp 19792 12544 "GET / HTTP/1.1" 200 163
+INFO 2023-09-11 17:02:58,942 basehttp 19792 12544 "GET /about HTTP/1.1" 200 127
+INFO 2023-09-11 17:03:06,267 basehttp 19792 12544 "GET /about HTTP/1.1" 200 127
+INFO 2023-09-14 14:10:34,073 autoreload 3776 19208 Watching for file changes with StatReloader
+INFO 2023-09-14 14:48:23,601 basehttp 3776 8304 "GET / HTTP/1.1" 200 163
+WARNING 2023-09-14 14:48:23,686 log 3776 8304 Not Found: /favicon.ico
+WARNING 2023-09-14 14:48:23,686 basehttp 3776 8304 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2023-09-14 14:53:46,228 autoreload 17144 2244 Watching for file changes with StatReloader
+INFO 2023-09-14 16:27:21,357 autoreload 3320 16004 Watching for file changes with StatReloader
+INFO 2023-09-14 16:27:23,700 basehttp 3320 17220 "GET / HTTP/1.1" 200 163
